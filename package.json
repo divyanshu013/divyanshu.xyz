@@ -1,0 +1,16 @@
+{
+  "name": "divyanshu.xyz",
+  "version": "1.0.0",
+  "description": "My URL shortener",
+  "main": "index.js",
+  "repository": "git@github.com:divyanshu013/divyanshu.xyz.git",
+  "author": "Divyanshu Maithani <div.blackcat@gmail.com>",
+  "license": "MIT",
+  "baseUrl": "https://divyanshu.xyz",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "devDependencies": {
+    "netlify-shortener": "^1.0.3"
+  }
+}
