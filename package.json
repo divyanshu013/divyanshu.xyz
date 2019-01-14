@@ -6,7 +6,7 @@
   "repository": "git@github.com:divyanshu013/divyanshu.xyz.git",
   "author": "Divyanshu Maithani <div.blackcat@gmail.com>",
   "license": "MIT",
-  "baseUrl": "https://divyanshu.xyz",
+  "baseUrl": "http://divyanshu.xyz",
   "scripts": {
     "shorten": "netlify-shortener"
   },
