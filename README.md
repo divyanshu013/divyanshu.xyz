@@ -6,3 +6,4 @@ My personal URL shortener based on [`netlify-shortener`](https://github.com/kent
 
 - [`divyanshu.xyz`](https://stackoverflow.com/users/story/4952669) to my detailed resume on StackOverflow
 - [`divyanshu.xyz/youtube`](https://divyanshu.xyz/youtube) for my YouTube channel **What the JavaScript**
+- [`divyanshu.xyz/music`](https://divyanshu.xyz/music) for my music YouTube channel
