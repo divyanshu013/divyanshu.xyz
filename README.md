@@ -9,3 +9,4 @@ My personal URL shortener based on [`netlify-shortener`](https://github.com/kent
 - [`divyanshu.xyz/youtube`](https://divyanshu.xyz/youtube) for my YouTube channel **What the JavaScript**
 - [`divyanshu.xyz/music`](https://divyanshu.xyz/music) for my music YouTube channel
 - [`divyanshu.xyz/summerstreets`](https://divyanshu.xyz/summerstreets) for my band **Summer streets**
+- [`divyanshu.xyz/instagram`](https://divyanshu.xyz/instagrams) for #Instagram #Profile
